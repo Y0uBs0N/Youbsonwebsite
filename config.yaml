@@ -1,4 +1,4 @@
-baseURL: https://yaubawebsite.netlify.app
+baseURL: http://yaubawebsite.netlify.app
 languageCode: en-us
 title: Bakouan
 theme: forty
@@ -57,7 +57,7 @@ params:
   name: Bakouan Youba
   navigation:
     button1:
-      - name: Go Now
+      - name: Get Started
         url: blogs
     button2:
       - name: Log In
@@ -102,7 +102,7 @@ params:
         title: Etiam
         url: blogs/ipsum
   two:
-    buttonText: Go Now
+    buttonText: Get Started
     enable: yes
     subtitle: "This is my entertainment website. I invite you to visit it and contact me if any need"
     title: Massa libero
