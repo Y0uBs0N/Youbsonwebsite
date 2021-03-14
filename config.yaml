@@ -1,4 +1,4 @@
-baseURL: http://bakouanwebsite.netlify.app
+baseURL: https://app.netlify.com/sites/bakouanwebsite/deploys
 languageCode: en-us
 title: Bakouan
 theme: forty
