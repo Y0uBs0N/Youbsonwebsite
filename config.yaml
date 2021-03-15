@@ -78,32 +78,32 @@ params:
     enable: yes
     showcase:
       - image: pic02.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+        subtitle: Loves to environment
+        title: Environment Space
         url: blogs/aliquam
       - image: pic03.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
+        subtitle: Love water
+        title: Water Space
         url: blogs/tempus
       - image: pic04.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+        subtitle: B2B space
+        title: Humanitarian Space
         url: blogs/magna
       - image: pic05.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
+        subtitle: Best transport companies
+        title: Transport
         url: blogs/ipsum
       - image: pic06.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
+        subtitle: Welcome to IT domain
+        title: Technology
         url: blogs/ipsum
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
+        subtitle: Best fly informations !! 
+        title: Sky
         url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
     subtitle: "This is my entertainment website. I invite you to visit it and contact me if any need"
-    title: Massa libero
+    title: About our work!!
     url: blogs
